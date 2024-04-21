@@ -323,5 +323,4 @@ else:
     cal_share(family[dead], family)
     print("\n\nThe family after the loss:\n\n", family_dataframe(family), "\n\n********")
 
-# Please modify the values each family member holds in order to check the code.
-# You may do that in the 'create_family()' function
+# Modify family member attributes and relationships in the `create_family()` function to simulate different scenarios
